@@ -15,6 +15,29 @@
 		E6E5CECA1D9CFA5600CBF9BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CEC81D9CFA5600CBF9BF /* LaunchScreen.storyboard */; };
 		E6E5CED51D9CFA5600CBF9BF /* TableRowCountDynamicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E5CED41D9CFA5600CBF9BF /* TableRowCountDynamicTests.m */; };
 		E6E5CEE01D9CFA5600CBF9BF /* TableRowCountDynamicUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E5CEDF1D9CFA5600CBF9BF /* TableRowCountDynamicUITests.m */; };
+		E6E5CEF51D9D0FBC00CBF9BF /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CEEE1D9D0FBC00CBF9BF /* 1.jpeg */; };
+		E6E5CEF61D9D0FBC00CBF9BF /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CEEF1D9D0FBC00CBF9BF /* 2.jpeg */; };
+		E6E5CEF71D9D0FBC00CBF9BF /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CEF01D9D0FBC00CBF9BF /* 3.jpeg */; };
+		E6E5CEF81D9D0FBC00CBF9BF /* 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CEF11D9D0FBC00CBF9BF /* 4.jpeg */; };
+		E6E5CEF91D9D0FBC00CBF9BF /* 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CEF21D9D0FBC00CBF9BF /* 5.jpeg */; };
+		E6E5CEFA1D9D0FBC00CBF9BF /* 6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CEF31D9D0FBC00CBF9BF /* 6.jpeg */; };
+		E6E5CEFB1D9D0FBC00CBF9BF /* 7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CEF41D9D0FBC00CBF9BF /* 7.jpeg */; };
+		E6E5CF0A1D9D102200CBF9BF /* 8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CEFC1D9D102200CBF9BF /* 8.jpeg */; };
+		E6E5CF0B1D9D102200CBF9BF /* 9.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CEFD1D9D102200CBF9BF /* 9.jpeg */; };
+		E6E5CF0C1D9D102200CBF9BF /* 10.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CEFE1D9D102200CBF9BF /* 10.jpeg */; };
+		E6E5CF0D1D9D102200CBF9BF /* 11.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CEFF1D9D102200CBF9BF /* 11.jpeg */; };
+		E6E5CF0E1D9D102200CBF9BF /* 12.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CF001D9D102200CBF9BF /* 12.jpeg */; };
+		E6E5CF0F1D9D102200CBF9BF /* 13.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CF011D9D102200CBF9BF /* 13.jpeg */; };
+		E6E5CF101D9D102200CBF9BF /* 14.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CF021D9D102200CBF9BF /* 14.jpeg */; };
+		E6E5CF111D9D102200CBF9BF /* 15.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CF031D9D102200CBF9BF /* 15.jpeg */; };
+		E6E5CF121D9D102200CBF9BF /* 16.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CF041D9D102200CBF9BF /* 16.jpeg */; };
+		E6E5CF131D9D102200CBF9BF /* 17.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CF051D9D102200CBF9BF /* 17.jpeg */; };
+		E6E5CF141D9D102200CBF9BF /* 18.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CF061D9D102200CBF9BF /* 18.jpeg */; };
+		E6E5CF151D9D102200CBF9BF /* 19.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CF071D9D102200CBF9BF /* 19.jpeg */; };
+		E6E5CF161D9D102200CBF9BF /* 20.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CF081D9D102200CBF9BF /* 20.jpeg */; };
+		E6E5CF171D9D102200CBF9BF /* 21.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CF091D9D102200CBF9BF /* 21.jpeg */; };
+		E6E5CF1B1D9D1CA500CBF9BF /* CustomLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E5CF191D9D1CA500CBF9BF /* CustomLoader.m */; };
+		E6E5CF1C1D9D1CA500CBF9BF /* CustomLoader.xib in Resources */ = {isa = PBXBuildFile; fileRef = E6E5CF1A1D9D1CA500CBF9BF /* CustomLoader.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +74,30 @@
 		E6E5CEDB1D9CFA5600CBF9BF /* TableRowCountDynamicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableRowCountDynamicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6E5CEDF1D9CFA5600CBF9BF /* TableRowCountDynamicUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableRowCountDynamicUITests.m; sourceTree = "<group>"; };
 		E6E5CEE11D9CFA5600CBF9BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6E5CEEE1D9D0FBC00CBF9BF /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		E6E5CEEF1D9D0FBC00CBF9BF /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
+		E6E5CEF01D9D0FBC00CBF9BF /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpeg; sourceTree = "<group>"; };
+		E6E5CEF11D9D0FBC00CBF9BF /* 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpeg; sourceTree = "<group>"; };
+		E6E5CEF21D9D0FBC00CBF9BF /* 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpeg; sourceTree = "<group>"; };
+		E6E5CEF31D9D0FBC00CBF9BF /* 6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpeg; sourceTree = "<group>"; };
+		E6E5CEF41D9D0FBC00CBF9BF /* 7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpeg; sourceTree = "<group>"; };
+		E6E5CEFC1D9D102200CBF9BF /* 8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpeg; sourceTree = "<group>"; };
+		E6E5CEFD1D9D102200CBF9BF /* 9.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpeg; sourceTree = "<group>"; };
+		E6E5CEFE1D9D102200CBF9BF /* 10.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpeg; sourceTree = "<group>"; };
+		E6E5CEFF1D9D102200CBF9BF /* 11.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpeg; sourceTree = "<group>"; };
+		E6E5CF001D9D102200CBF9BF /* 12.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12.jpeg; sourceTree = "<group>"; };
+		E6E5CF011D9D102200CBF9BF /* 13.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 13.jpeg; sourceTree = "<group>"; };
+		E6E5CF021D9D102200CBF9BF /* 14.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 14.jpeg; sourceTree = "<group>"; };
+		E6E5CF031D9D102200CBF9BF /* 15.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 15.jpeg; sourceTree = "<group>"; };
+		E6E5CF041D9D102200CBF9BF /* 16.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 16.jpeg; sourceTree = "<group>"; };
+		E6E5CF051D9D102200CBF9BF /* 17.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 17.jpeg; sourceTree = "<group>"; };
+		E6E5CF061D9D102200CBF9BF /* 18.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 18.jpeg; sourceTree = "<group>"; };
+		E6E5CF071D9D102200CBF9BF /* 19.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 19.jpeg; sourceTree = "<group>"; };
+		E6E5CF081D9D102200CBF9BF /* 20.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20.jpeg; sourceTree = "<group>"; };
+		E6E5CF091D9D102200CBF9BF /* 21.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 21.jpeg; sourceTree = "<group>"; };
+		E6E5CF181D9D1CA500CBF9BF /* CustomLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomLoader.h; sourceTree = "<group>"; };
+		E6E5CF191D9D1CA500CBF9BF /* CustomLoader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomLoader.m; sourceTree = "<group>"; };
+		E6E5CF1A1D9D1CA500CBF9BF /* CustomLoader.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomLoader.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,10 +152,14 @@
 				E6E5CEBE1D9CFA5600CBF9BF /* AppDelegate.m */,
 				E6E5CEC01D9CFA5600CBF9BF /* ViewController.h */,
 				E6E5CEC11D9CFA5600CBF9BF /* ViewController.m */,
+				E6E5CF181D9D1CA500CBF9BF /* CustomLoader.h */,
+				E6E5CF191D9D1CA500CBF9BF /* CustomLoader.m */,
+				E6E5CF1A1D9D1CA500CBF9BF /* CustomLoader.xib */,
 				E6E5CEC31D9CFA5600CBF9BF /* Main.storyboard */,
 				E6E5CEC61D9CFA5600CBF9BF /* Assets.xcassets */,
 				E6E5CEC81D9CFA5600CBF9BF /* LaunchScreen.storyboard */,
 				E6E5CECB1D9CFA5600CBF9BF /* Info.plist */,
+				E6E5CEED1D9D0F1A00CBF9BF /* Images */,
 				E6E5CEBA1D9CFA5600CBF9BF /* Supporting Files */,
 			);
 			path = TableRowCountDynamic;
@@ -138,6 +189,34 @@
 				E6E5CEE11D9CFA5600CBF9BF /* Info.plist */,
 			);
 			path = TableRowCountDynamicUITests;
+			sourceTree = "<group>";
+		};
+		E6E5CEED1D9D0F1A00CBF9BF /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				E6E5CEEE1D9D0FBC00CBF9BF /* 1.jpeg */,
+				E6E5CEEF1D9D0FBC00CBF9BF /* 2.jpeg */,
+				E6E5CEF01D9D0FBC00CBF9BF /* 3.jpeg */,
+				E6E5CEF11D9D0FBC00CBF9BF /* 4.jpeg */,
+				E6E5CEF21D9D0FBC00CBF9BF /* 5.jpeg */,
+				E6E5CEF31D9D0FBC00CBF9BF /* 6.jpeg */,
+				E6E5CEF41D9D0FBC00CBF9BF /* 7.jpeg */,
+				E6E5CEFC1D9D102200CBF9BF /* 8.jpeg */,
+				E6E5CEFD1D9D102200CBF9BF /* 9.jpeg */,
+				E6E5CEFE1D9D102200CBF9BF /* 10.jpeg */,
+				E6E5CEFF1D9D102200CBF9BF /* 11.jpeg */,
+				E6E5CF001D9D102200CBF9BF /* 12.jpeg */,
+				E6E5CF011D9D102200CBF9BF /* 13.jpeg */,
+				E6E5CF021D9D102200CBF9BF /* 14.jpeg */,
+				E6E5CF031D9D102200CBF9BF /* 15.jpeg */,
+				E6E5CF041D9D102200CBF9BF /* 16.jpeg */,
+				E6E5CF051D9D102200CBF9BF /* 17.jpeg */,
+				E6E5CF061D9D102200CBF9BF /* 18.jpeg */,
+				E6E5CF071D9D102200CBF9BF /* 19.jpeg */,
+				E6E5CF081D9D102200CBF9BF /* 20.jpeg */,
+				E6E5CF091D9D102200CBF9BF /* 21.jpeg */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -249,9 +328,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6E5CF161D9D102200CBF9BF /* 20.jpeg in Resources */,
+				E6E5CEF61D9D0FBC00CBF9BF /* 2.jpeg in Resources */,
 				E6E5CECA1D9CFA5600CBF9BF /* LaunchScreen.storyboard in Resources */,
 				E6E5CEC71D9CFA5600CBF9BF /* Assets.xcassets in Resources */,
+				E6E5CF0B1D9D102200CBF9BF /* 9.jpeg in Resources */,
+				E6E5CEF71D9D0FBC00CBF9BF /* 3.jpeg in Resources */,
+				E6E5CF171D9D102200CBF9BF /* 21.jpeg in Resources */,
+				E6E5CF0A1D9D102200CBF9BF /* 8.jpeg in Resources */,
+				E6E5CF121D9D102200CBF9BF /* 16.jpeg in Resources */,
+				E6E5CF131D9D102200CBF9BF /* 17.jpeg in Resources */,
+				E6E5CF101D9D102200CBF9BF /* 14.jpeg in Resources */,
+				E6E5CEF81D9D0FBC00CBF9BF /* 4.jpeg in Resources */,
+				E6E5CEFB1D9D0FBC00CBF9BF /* 7.jpeg in Resources */,
+				E6E5CF0C1D9D102200CBF9BF /* 10.jpeg in Resources */,
 				E6E5CEC51D9CFA5600CBF9BF /* Main.storyboard in Resources */,
+				E6E5CEFA1D9D0FBC00CBF9BF /* 6.jpeg in Resources */,
+				E6E5CF0D1D9D102200CBF9BF /* 11.jpeg in Resources */,
+				E6E5CF151D9D102200CBF9BF /* 19.jpeg in Resources */,
+				E6E5CF1C1D9D1CA500CBF9BF /* CustomLoader.xib in Resources */,
+				E6E5CF0E1D9D102200CBF9BF /* 12.jpeg in Resources */,
+				E6E5CEF51D9D0FBC00CBF9BF /* 1.jpeg in Resources */,
+				E6E5CF111D9D102200CBF9BF /* 15.jpeg in Resources */,
+				E6E5CF141D9D102200CBF9BF /* 18.jpeg in Resources */,
+				E6E5CEF91D9D0FBC00CBF9BF /* 5.jpeg in Resources */,
+				E6E5CF0F1D9D102200CBF9BF /* 13.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,6 +380,7 @@
 				E6E5CEC21D9CFA5600CBF9BF /* ViewController.m in Sources */,
 				E6E5CEBF1D9CFA5600CBF9BF /* AppDelegate.m in Sources */,
 				E6E5CEBC1D9CFA5600CBF9BF /* main.m in Sources */,
+				E6E5CF1B1D9D1CA500CBF9BF /* CustomLoader.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -514,6 +616,7 @@
 				E6E5CEE61D9CFA5600CBF9BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E6E5CEE71D9CFA5600CBF9BF /* Build configuration list for PBXNativeTarget "TableRowCountDynamicTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +625,7 @@
 				E6E5CEE91D9CFA5600CBF9BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E6E5CEEA1D9CFA5600CBF9BF /* Build configuration list for PBXNativeTarget "TableRowCountDynamicUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +634,7 @@
 				E6E5CEEC1D9CFA5600CBF9BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

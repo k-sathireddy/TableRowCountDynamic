@@ -2,9 +2,7 @@
 //  AppDelegate.m
 //  TableRowCountDynamic
 //
-//  Created by Enterpi mini mac on 9/29/16.
-//  Copyright © 2016 Enterpi mini mac. All rights reserved.
-//
+
 
 #import "AppDelegate.h"
 
